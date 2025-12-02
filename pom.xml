@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>//http://98.80.191.52:8081/repository/Siemens-snapshot/</url>
+	      <url>http://98.80.191.52:8081/repository/Siemens-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
