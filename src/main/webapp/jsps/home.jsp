@@ -9,11 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies</h1>
-<h1 align="center">Phone Number: +91 9980923216</h1>
-<h1 align="center">Mithun Technologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
-
-<h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>
+<h1 align="center">Welcome To Quick Recaps</h1>
+<h1 align="center">Day 12</h1>
+<h1 align="center">Today, we have integrated GitHub, Maven, SonarQube, Nexus and Tomcat with Jenkins<h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>
 
 <hr>
 <br>
@@ -34,25 +32,22 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client Name Host :: "+request.getRemoteHost() );%><br></h1>
 <hr>
 <div style="text-align: center;">
-	<span>
+	<!--<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span>
+	</span>-->
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Marathahalli,
-		Bengaluru,
-		+91 9980923216 and 
-		Devopstrainingblr@Gmail.com
+		Naveen Kumar Konidela
+		Working as Software Engineer at Infosys, Bangalore DC.
 		<br>
-		<a href="mailto:Devopstrainingblr@Gmail.com">Mail to Mithun Technologies</a>
+		<!--<a href="mailto:Devopstrainingblr@Gmail.com">Mail to Mithun Technologies</a>-->
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	<!--<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>-->
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training and Development Center.</p>
-<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<!--<p align=center>Mithun Technologies - Consultant, Training and Development Center.</p>-->
+<!--<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>-->
 
 </body>
 </html>
