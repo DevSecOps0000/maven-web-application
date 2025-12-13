@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome To Quick Recaps</h1>
 <h1 align="center">Day 12</h1>
-<h1 align="center">Today, we have integrated GitHub, MAVEN, SonarQube, NEXUS and Tomcat with Jenkins<!--<h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>-->
+<h1 align="center">Today, we have integrated GitHub, Maven, SonarQube, NEXUS and Tomcat with Jenkins<!--<h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>-->
 
 <hr>
 <br>
